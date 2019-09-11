@@ -1,0 +1,13 @@
+*.swp
+
+# temp things
+test_results/
+tags
+.DS_Store
+
+# chef.sh website
+www/site/public
+www/chef-sh
+
+# ruby
+Gemfile.lock
