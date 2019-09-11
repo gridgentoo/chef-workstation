@@ -11,7 +11,7 @@ https://sdtimes.com/opscode-unleashes-new-generation-of-chef/
 Система управления конфигурацией Chef написана на языках Ruby и Erlang, и предлагает предметно-ориентированный язык для создания инструкций ("рецептов"). Chef может применяться для централизованного изменения конфигурации и автоматизации управления приложениями (установка, обновление, удаление, запуск) в серверных парках различного размера и облачных инфраструктурах. В том числе поддерживается автоматизация развёртывания начинки новых серверов в облачных окружениях Amazon EC2, Rackspace, Google Cloud Platform, Oracle Cloud, OpenStack и Microsoft Azure. Решения на базе Chef применяются компаниями Facebook, Amazon и HP. Управляющие узлы Chef могут быть развёрнуты в дистрибутивах на основе RHEL и Ubuntu. В качестве объектов управления поддерживаются все популярные Linux-дистрибутивы, macOS, FreeBSD, AIX, Solaris и Windows.
 
 # Chef Workstation
-
+https://github.com/chef/chef-workstation
 
 **Umbrella Project**: [Chef Workstation](https://github.com/chef/chef-oss-practices/blob/master/projects/chef-workstation.md)
 
